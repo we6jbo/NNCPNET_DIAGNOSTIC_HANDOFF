@@ -1,0 +1,3 @@
+Current generic troubleshooting category: general-mail-delivery-failure
+Targeted strategy file: general-mail-delivery-failure.md
+Public content is sanitized and contains no raw private diagnostics.
