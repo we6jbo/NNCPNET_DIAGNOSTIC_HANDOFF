@@ -1,1 +1,10 @@
-{"bundle_type":"NNCPNET_DIAGNOSTIC_HANDOFF","schema_version":1,"public_safe":true,"contains_credentials":false,"contains_identifiers":false}
+{
+  "bundle_type": "NNCPNET_DIAGNOSTIC_HANDOFF",
+  "schema_version": 2,
+  "public_safe": true,
+  "contains_credentials": false,
+  "contains_identifiers": false,
+  "current_problem": "general-mail-delivery-failure",
+  "strategy_file": "general-mail-delivery-failure.md",
+  "read_first": "readme.md"
+}
