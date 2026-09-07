@@ -1,7 +1,13 @@
 # NNCPNET Diagnostic Handoff
 
-This public repository contains generic troubleshooting information for email delivery paths, store-and-forward transports, IMAP visibility, and desktop mail synchronization.
+This repository contains generic, public-safe troubleshooting guidance for email delivery and store-and-forward messaging.
 
 Utilities: https://j03.page/utils/
 
-No passwords, private keys, usernames, hostnames, IP addresses, raw private logs, names, or identifying device information belong here.
+## Most recently classified troubleshooting strategy
+
+**general-mail-delivery-failure**
+
+Read [general-mail-delivery-failure.md](general-mail-delivery-failure.md) for troubleshooting guidance written specifically for that failure stage.
+
+The repository intentionally excludes names, usernames, hostnames, IP addresses, passwords, password hashes, private keys, tokens, device identifiers, message contents, and raw private logs.
