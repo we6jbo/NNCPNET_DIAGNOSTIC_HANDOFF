@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "category": "general-mail-delivery-failure",
+  "strategy_file": "general-mail-delivery-failure.md",
+  "approach": [
+    "Correlate a fresh test using one unique marker.",
+    "Prove the marker at each delivery stage in sequence.",
+    "Stop at the first stage that cannot prove progression.",
+    "Apply remediation specific to that stage and then retest end to end."
+  ]
+}
